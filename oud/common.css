@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align		:		center;
+	margin			:		0px;
+	padding			:		0px;
+	background-image:		url(../images/achtergrond01.jpg)
+}
+
+div.container{
+	width			:		800px;
+	margin			:		0px auto;
+	margin-top		:		20px;
+	margin-bottom		:		20px;
+	padding			:		0px;
+	/*border			:		1px solid red;*/
+	background		:		#ffffff;
+	float			:		none;
+}
+
+div.horizontaal{
+	width			:		100%;
+	height			:		1px;
+	margin			:		0 0 0 0;
+	background-color:		#FF8E33;
+	float			:		left;
+}
+
+div.vertikaal_top{
+	width			:		1px;
+	height			:		98px;
+	margin			:		0 0 0 0;
+	background-color:		#FF8E33;
+	float			:		left;
+}
+
+div.vertikaal_down{
+	width			:		1px;
+	height			:		699px;
+	margin			:		0 0 0 0;
+	background-color:		#FF8E33;
+	float			:		left;
+}
+
+div.topmenu{
+	width			:		398px;
+	height			:		98px;
+	margin			:		0 0 0 0;
+	background-color:		#000000;
+	float			:		left;
+}
+
+div.topgedeelte{
+	width			:		399px;
+	height			:		98px;
+	margin			:		0 0 0 0;
+	background-color:		#000000;
+	float			:		left;
+}
+
+div.center_body{
+	width			:		398px;
+	height			:		699px;
+	margin			:		0 0 0 0;
+	background-color:		#000000;
+	float			:		left;
+}
+
+div.side_body{
+	width			:		399px;
+	height			:		699px;
+	margin			:		0 0 0 0;
+	background-color:		#000000;
+	float			:		left;
+}
